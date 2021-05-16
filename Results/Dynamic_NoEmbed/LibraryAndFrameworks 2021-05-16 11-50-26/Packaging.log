@@ -1,0 +1,151 @@
+2021-05-16 06:20:21 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7ff248d226c0; archive(resolved)='<IDEArchive: 0x7ff2369242c0>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodDevelopmentSigned: 0x7ff23b5587c0>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7ff24c95e840; teamID='MX45P48B86', teamName='Walmart Stores Inc.', teamType='Company', username='shilpa.bansal@walmartlabs.com', isFreeProvisioningTeam='0'>'>
+	Chain (14, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7ff248d226c0; archive = '<IDEArchive: 0x7ff2369242c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7ff23b5587c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ff24c95e840; teamID='MX45P48B86', teamName='Walmart Stores Inc.', teamType='Company', username='shilpa.bansal@walmartlabs.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7ff248d79a20; archive = '<IDEArchive: 0x7ff2369242c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7ff23b5587c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ff24c95e840; teamID='MX45P48B86', teamName='Walmart Stores Inc.', teamType='Company', username='shilpa.bansal@walmartlabs.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ff24694d0b0; archive = '<IDEArchive: 0x7ff2369242c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7ff23b5587c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ff24c95e840; teamID='MX45P48B86', teamName='Walmart Stores Inc.', teamType='Company', username='shilpa.bansal@walmartlabs.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ff213920320; archive = '<IDEArchive: 0x7ff2369242c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7ff23b5587c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ff24c95e840; teamID='MX45P48B86', teamName='Walmart Stores Inc.', teamType='Company', username='shilpa.bansal@walmartlabs.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ff21f09c480; archive = '<IDEArchive: 0x7ff2369242c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7ff23b5587c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ff24c95e840; teamID='MX45P48B86', teamName='Walmart Stores Inc.', teamType='Company', username='shilpa.bansal@walmartlabs.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ff21f0dea50; archive = '<IDEArchive: 0x7ff2369242c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7ff23b5587c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ff24c95e840; teamID='MX45P48B86', teamName='Walmart Stores Inc.', teamType='Company', username='shilpa.bansal@walmartlabs.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ff229fc4040; archive = '<IDEArchive: 0x7ff2369242c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7ff23b5587c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ff24c95e840; teamID='MX45P48B86', teamName='Walmart Stores Inc.', teamType='Company', username='shilpa.bansal@walmartlabs.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ff21dde9bf0; archive = '<IDEArchive: 0x7ff2369242c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7ff23b5587c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ff24c95e840; teamID='MX45P48B86', teamName='Walmart Stores Inc.', teamType='Company', username='shilpa.bansal@walmartlabs.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ff21d904f10; archive = '<IDEArchive: 0x7ff2369242c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7ff23b5587c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ff24c95e840; teamID='MX45P48B86', teamName='Walmart Stores Inc.', teamType='Company', username='shilpa.bansal@walmartlabs.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ff21d9cf350; archive = '<IDEArchive: 0x7ff2369242c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7ff23b5587c0>', team='(null)'>
+	<IDEDistributionContext: 0x7ff2455340e0; archive = '<IDEArchive: 0x7ff2369242c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7ff23b5587c0>', team='(null)'>
+	<IDEDistributionContext: 0x7ff2455985b0; archive = '<IDEArchive: 0x7ff2369242c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7ff23b5587c0>', team='(null)'>
+	<IDEDistributionContext: 0x7ff21d90dbe0; archive = '<IDEArchive: 0x7ff2369242c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7ff23b5587c0>', team='(null)'>
+	<IDEDistributionContext: 0x7ff21d928bb0; archive = '<IDEArchive: 0x7ff2369242c0>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7ff248d226c0>
+2021-05-16 06:20:21 +0000  Processing step: IDEDistributionCreateDestRootStep
+2021-05-16 06:20:21 +0000  Processing step: IDEDistributionCopyItemStep
+2021-05-16 06:20:21 +0000  Running /usr/bin/ditto '-V' '/Users/s1b0191/Library/Developer/Xcode/Archives/2021-05-16/LibraryAndFrameworks 16-05-21, 11.50 AM.xcarchive/Products/Applications/LibraryAndFrameworks.app' '/var/folders/yq/y1713gcn7d71k988t724wgqm0000gp/T/XcodeDistPipeline.~~~DgAVs3/Root/Payload/LibraryAndFrameworks.app'
+2021-05-16 06:20:21 +0000  >>> Copying /Users/s1b0191/Library/Developer/Xcode/Archives/2021-05-16/LibraryAndFrameworks 16-05-21, 11.50 AM.xcarchive/Products/Applications/LibraryAndFrameworks.app 
+2021-05-16 06:20:21 +0000  copying file ./_CodeSignature/CodeResources ... 
+2021-05-16 06:20:21 +0000  3885 bytes for ./_CodeSignature/CodeResources
+2021-05-16 06:20:21 +0000  copying file ./Base.lproj/Main.storyboardc/FeedListViewController.nib ... 
+2021-05-16 06:20:21 +0000  1048 bytes for ./Base.lproj/Main.storyboardc/FeedListViewController.nib
+2021-05-16 06:20:21 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2021-05-16 06:20:21 +0000  4522 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2021-05-16 06:20:21 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2021-05-16 06:20:21 +0000  217 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2021-05-16 06:20:21 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2021-05-16 06:20:21 +0000  1197 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2021-05-16 06:20:21 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-05-16 06:20:21 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2021-05-16 06:20:21 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2021-05-16 06:20:21 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2021-05-16 06:20:21 +0000  copying file ./embedded.mobileprovision ... 
+2021-05-16 06:20:21 +0000  112816 bytes for ./embedded.mobileprovision
+2021-05-16 06:20:21 +0000  copying file ./LibraryAndFrameworks ... 
+2021-05-16 06:20:21 +0000  109600 bytes for ./LibraryAndFrameworks
+2021-05-16 06:20:21 +0000  copying file ./Info.plist ... 
+2021-05-16 06:20:21 +0000  1465 bytes for ./Info.plist
+2021-05-16 06:20:21 +0000  copying file ./PkgInfo ... 
+2021-05-16 06:20:21 +0000  8 bytes for ./PkgInfo
+2021-05-16 06:20:21 +0000  /usr/bin/ditto exited with 0
+2021-05-16 06:20:21 +0000  Processing step: IDEDistributionEmbedProfileStep
+2021-05-16 06:20:21 +0000  Processing step: IDEDistributionInfoPlistStep
+2021-05-16 06:20:21 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-05-16 06:20:21 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2021-05-16 06:20:21 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2021-05-16 06:20:21 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2021-05-16 06:20:21 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2021-05-16 06:20:21 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2021-05-16 06:20:21 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2021-05-16 06:20:21 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2021-05-16 06:20:21 +0000  Processing step: IDEDistributionSymbolsStep
+2021-05-16 06:20:21 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2021-05-16 06:20:21 +0000  Processing step: IDEDistributionAppThinningStep
+2021-05-16 06:20:21 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2021-05-16 06:20:21 +0000  Processing step: IDEDistributionArchThinningStep
+2021-05-16 06:20:21 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/yq/y1713gcn7d71k988t724wgqm0000gp/T/XcodeDistPipeline.~~~DgAVs3/Root/Payload/LibraryAndFrameworks.app/LibraryAndFrameworks' '-verify_arch' 'arm64e'
+2021-05-16 06:20:21 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-05-16 06:20:21 +0000  Skipping architecture thinning for item "LibraryAndFrameworks" because arch "arm64e" wasn't found
+2021-05-16 06:20:21 +0000  Processing step: IDEDistributionODRStep
+2021-05-16 06:20:21 +0000  Processing step: IDEDistributionStripXattrsStep
+2021-05-16 06:20:21 +0000  Running /usr/bin/xattr '-crs' '/var/folders/yq/y1713gcn7d71k988t724wgqm0000gp/T/XcodeDistPipeline.~~~DgAVs3/Root/Payload/LibraryAndFrameworks.app'
+2021-05-16 06:20:21 +0000  /usr/bin/xattr exited with 0
+2021-05-16 06:20:21 +0000  Processing step: IDEDistributionCodesignStep
+2021-05-16 06:20:21 +0000  Entitlements for <IDEDistributionItem: 0x7ff2443576a0; bundleID='com.samsclub.samsapp', path='<DVTFilePath:0x7ff22b66f810:'/Users/s1b0191/Library/Developer/Xcode/Archives/2021-05-16/LibraryAndFrameworks 16-05-21, 11.50 AM.xcarchive/Products/Applications/LibraryAndFrameworks.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ff2138431f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ff214e0f010; name='Apple Development: Shilpa Bansal (QBKPJ3BZHH)', hash='950D8785B2D9503225972158F112A7ACA268FFEA', serialNumber='<DVTSigningCertificateSerialNumber: 0x7ff24c9dd790>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-03 11:10:42 +0000''>', entitlements='{
+    "application-identifier" = "TH8KCQF4BE.com.samsclub.samsapp";
+    "com.apple.developer.team-identifier" = MX45P48B86;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "TH8KCQF4BE.com.samsclub.samsapp"
+    );
+}', teamID='MX45P48B86', identifier='com.samsclub.samsapp', executablePath='<DVTFilePath:0x7ff23c8893c0:'/Users/s1b0191/Library/Developer/Xcode/Archives/2021-05-16/LibraryAndFrameworks 16-05-21, 11.50 AM.xcarchive/Products/Applications/LibraryAndFrameworks.app/LibraryAndFrameworks'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "TH8KCQF4BE.com.samsclub.samsapp";
+    "com.apple.developer.team-identifier" = MX45P48B86;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "TH8KCQF4BE.com.samsclub.samsapp"
+    );
+}
+2021-05-16 06:20:21 +0000  Entitlements for <IDEDistributionItem: 0x7ff2443576a0; bundleID='com.samsclub.samsapp', path='<DVTFilePath:0x7ff22b66f810:'/Users/s1b0191/Library/Developer/Xcode/Archives/2021-05-16/LibraryAndFrameworks 16-05-21, 11.50 AM.xcarchive/Products/Applications/LibraryAndFrameworks.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ff2138431f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ff24a840d70; name='Apple Development: Shilpa Bansal (QBKPJ3BZHH)', hash='950D8785B2D9503225972158F112A7ACA268FFEA', serialNumber='<DVTSigningCertificateSerialNumber: 0x7ff24a8f69d0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-03 11:10:42 +0000''>', entitlements='{
+    "application-identifier" = "TH8KCQF4BE.com.samsclub.samsapp";
+    "com.apple.developer.team-identifier" = MX45P48B86;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "TH8KCQF4BE.com.samsclub.samsapp"
+    );
+}', teamID='MX45P48B86', identifier='com.samsclub.samsapp', executablePath='<DVTFilePath:0x7ff23c8893c0:'/Users/s1b0191/Library/Developer/Xcode/Archives/2021-05-16/LibraryAndFrameworks 16-05-21, 11.50 AM.xcarchive/Products/Applications/LibraryAndFrameworks.app/LibraryAndFrameworks'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "TH8KCQF4BE.com.samsclub.samsapp";
+    "com.apple.developer.team-identifier" = MX45P48B86;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "TH8KCQF4BE.com.samsclub.samsapp"
+    );
+}
+2021-05-16 06:20:21 +0000  Writing entitlements for <IDEDistributionItem: 0x7ff2443576a0; bundleID='com.samsclub.samsapp', path='<DVTFilePath:0x7ff22b66f810:'/Users/s1b0191/Library/Developer/Xcode/Archives/2021-05-16/LibraryAndFrameworks 16-05-21, 11.50 AM.xcarchive/Products/Applications/LibraryAndFrameworks.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ff2138431f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ff235c84a50; name='Apple Development: Shilpa Bansal (QBKPJ3BZHH)', hash='950D8785B2D9503225972158F112A7ACA268FFEA', serialNumber='<DVTSigningCertificateSerialNumber: 0x7ff2187b9730>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-01-03 11:10:42 +0000''>', entitlements='{
+    "application-identifier" = "TH8KCQF4BE.com.samsclub.samsapp";
+    "com.apple.developer.team-identifier" = MX45P48B86;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "TH8KCQF4BE.com.samsclub.samsapp"
+    );
+}', teamID='MX45P48B86', identifier='com.samsclub.samsapp', executablePath='<DVTFilePath:0x7ff23c8893c0:'/Users/s1b0191/Library/Developer/Xcode/Archives/2021-05-16/LibraryAndFrameworks 16-05-21, 11.50 AM.xcarchive/Products/Applications/LibraryAndFrameworks.app/LibraryAndFrameworks'>', hardenedRuntime='0'>'> to: /var/folders/yq/y1713gcn7d71k988t724wgqm0000gp/T/XcodeDistPipeline.~~~DgAVs3/entitlements~~~Q8vbNe
+2021-05-16 06:20:21 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '950D8785B2D9503225972158F112A7ACA268FFEA' '--entitlements' '/var/folders/yq/y1713gcn7d71k988t724wgqm0000gp/T/XcodeDistPipeline.~~~DgAVs3/entitlements~~~Q8vbNe' '--preserve-metadata=identifier,flags,runtime' '/var/folders/yq/y1713gcn7d71k988t724wgqm0000gp/T/XcodeDistPipeline.~~~DgAVs3/Root/Payload/LibraryAndFrameworks.app'
+2021-05-16 06:20:21 +0000  /var/folders/yq/y1713gcn7d71k988t724wgqm0000gp/T/XcodeDistPipeline.~~~DgAVs3/Root/Payload/LibraryAndFrameworks.app: replacing existing signature
+2021-05-16 06:20:21 +0000  /var/folders/yq/y1713gcn7d71k988t724wgqm0000gp/T/XcodeDistPipeline.~~~DgAVs3/Root/Payload/LibraryAndFrameworks.app: signed app bundle with Mach-O thin (arm64) [com.samsclub.samsapp]
+2021-05-16 06:20:21 +0000  /usr/bin/codesign exited with 0
+2021-05-16 06:20:21 +0000  Processing step: IDEDistributionZipODRItemStep
+2021-05-16 06:20:21 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-05-16 06:20:21 +0000  Processing step: IDEDistributionCreateIPAStep
+2021-05-16 06:20:21 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/yq/y1713gcn7d71k988t724wgqm0000gp/T/XcodeDistPipeline.~~~DgAVs3/Root' '/var/folders/yq/y1713gcn7d71k988t724wgqm0000gp/T/XcodeDistPipeline.~~~DgAVs3/Packages/LibraryAndFrameworks.ipa'
+2021-05-16 06:20:21 +0000  >>> Copying /var/folders/yq/y1713gcn7d71k988t724wgqm0000gp/T/XcodeDistPipeline.~~~DgAVs3/Root 
+2021-05-16 06:20:21 +0000  copying file ./Payload/LibraryAndFrameworks.app/_CodeSignature/CodeResources ... 
+2021-05-16 06:20:21 +0000  3885 bytes for ./Payload/LibraryAndFrameworks.app/_CodeSignature/CodeResources
+2021-05-16 06:20:21 +0000  copying file ./Payload/LibraryAndFrameworks.app/Base.lproj/Main.storyboardc/FeedListViewController.nib ... 
+2021-05-16 06:20:21 +0000  1048 bytes for ./Payload/LibraryAndFrameworks.app/Base.lproj/Main.storyboardc/FeedListViewController.nib
+2021-05-16 06:20:21 +0000  copying file ./Payload/LibraryAndFrameworks.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2021-05-16 06:20:21 +0000  4522 bytes for ./Payload/LibraryAndFrameworks.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/LibraryAndFrameworks.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2021-05-16 06:20:21 +0000  217 bytes for ./Payload/LibraryAndFrameworks.app/Base.lproj/Main.storyboardc/Info.plist
+2021-05-16 06:20:21 +0000  copying file ./Payload/LibraryAndFrameworks.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2021-05-16 06:20:21 +0000  1197 bytes for ./Payload/LibraryAndFrameworks.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/LibraryAndFrameworks.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-05-16 06:20:21 +0000  896 bytes for ./Payload/LibraryAndFrameworks.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/LibraryAndFrameworks.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2021-05-16 06:20:21 +0000  258 bytes for ./Payload/LibraryAndFrameworks.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+2021-05-16 06:20:21 +0000  copying file ./Payload/LibraryAndFrameworks.app/embedded.mobileprovision ... 
+2021-05-16 06:20:21 +0000  112816 bytes for ./Payload/LibraryAndFrameworks.app/embedded.mobileprovision
+2021-05-16 06:20:21 +0000  copying file ./Payload/LibraryAndFrameworks.app/LibraryAndFrameworks ... 
+2021-05-16 06:20:21 +0000  109600 bytes for ./Payload/LibraryAndFrameworks.app/LibraryAndFrameworks
+copying file ./Payload/LibraryAndFrameworks.app/Info.plist ... 
+2021-05-16 06:20:21 +0000  1465 bytes for ./Payload/LibraryAndFrameworks.app/Info.plist
+2021-05-16 06:20:21 +0000  copying file ./Payload/LibraryAndFrameworks.app/PkgInfo ... 
+8 bytes for ./Payload/LibraryAndFrameworks.app/PkgInfo
+2021-05-16 06:20:21 +0000  /usr/bin/ditto exited with 0
+2021-05-16 06:20:21 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2021-05-16 06:20:21 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2021-05-16 06:20:21 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2021-05-16 06:20:21 +0000  IDEDistributionItem init <DVTFilePath:0x7ff23a294330:'/var/folders/yq/y1713gcn7d71k988t724wgqm0000gp/T/XcodeDistPipeline.~~~DgAVs3/Root/Payload/LibraryAndFrameworks.app'>
+2021-05-16 06:20:21 +0000  Processing step: IDEDistributionCreateManifestStep

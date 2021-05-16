@@ -1,0 +1,11 @@
+framework module FeedContent {
+  umbrella header "FeedContent.h"
+
+  export *
+  module * { export * }
+}
+
+module FeedContent.Swift {
+    header "FeedContent-Swift.h"
+    requires objc
+}

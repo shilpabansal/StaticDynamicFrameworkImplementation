@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LibraryAndFrameworks.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>950D8785B2D9503225972158F112A7ACA268FFEA</string>
+				<key>dateExpires</key>
+				<string>03/01/22</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>TH8KCQF4BE.com.samsclub.samsapp</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>MX45P48B86</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>TH8KCQF4BE.com.samsclub.samsapp</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>LibraryAndFrameworks.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>92e73e1b-9fe9-4295-92df-0807250ed40b</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.samsclub.samsapp</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>MX45P48B86</string>
+				<key>name</key>
+				<string>Walmart Stores Inc.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
